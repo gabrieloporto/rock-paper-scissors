@@ -21,5 +21,5 @@ ElementComponent.propTypes = {
   onElement: PropTypes.func.isRequired,
   iconElement: PropTypes.string.isRequired,
   classElement: PropTypes.string.isRequired,
-  classAura: PropTypes.string.isRequired,
+  classAura: PropTypes.string,
 };
