@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Preview
 
-![](./screenshot.jpg)
+![PreviewImage](/src/assets/Screenshot-2023-09-18.png)
 
 ### Rules
 
