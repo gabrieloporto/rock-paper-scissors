@@ -39,7 +39,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 ### Links
 
 - Solution: [Repository](https://github.com/gabrieloporto/rock-paper-scissors)
-- Live Site: [Webpage](https://gabrieloporto.github.io/rock-paper-scissors/)
+- Live Site: [Webpage](https://rock-paper-scissors478.netlify.app/)
 
 ## My process
 
